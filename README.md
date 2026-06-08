@@ -1,6 +1,6 @@
-# Projeto-Dungeon-Crawler
 # 🛡️ Aethelgard: O Abismo Sombrio
-#Desenvolvido por Heitor sena
+
+**Desenvolvido por: Heitor Sena**
 
 Um RPG de aventura em modo texto desenvolvido inteiramente em **C**, rodando direto no terminal. Escolha sua arma, explore labirintos perigosos, encontre chaves e enfrente o terrível Arauto da Ruína antes que seu tempo acabe!
 
@@ -55,20 +55,4 @@ O jogo utiliza inputs em tempo real (sem precisar apertar Enter a cada movimento
 * **`P`**: Usar Poção (Restaura completamente suas 3 vidas, se tiver uma guardada).
 * **`Q`**: Sair do jogo e voltar ao menu principal.
 
-> ⚠️ **Alerta de Sobrevivência:** Na Sala do Chefe (Fase 2), o ambiente é hostil. Cada comando executado drena 1 de vida passivamente devido ao miasma tóxico. Seja rápido para atacar o Chefe (`B`)!
-
----
-
-## 🛠️ Tecnologias e Compilação
-
-Este projeto foi desenvolvido utilizando a linguagem **C** padrão, com foco em sistemas Windows devido ao uso da biblioteca `<conio.h>`.
-
-### Pré-requisitos
-* Um compilador C (como o `GCC` através do MinGW, ou o ambiente do VS Code / Code::Blocks).
-* Sistema Operacional Windows (necessário para a função `_getch()` e `system("cls")`).
-
-### Como rodar o código:
-1. Baixe o arquivo `.c` do repositório.
-2. Abra o terminal na pasta do arquivo e compile usando o GCC:
-   ```bash
-   gcc jogo.c -o jogo.exe
+> ⚠️ **Alerta de Sobrevivência:** Na Sala do Chefe (Fase 2), o ambiente é hostil. Cada
