@@ -1,5 +1,4 @@
 # Projeto-Dungeon-Crawler
-
 # 🛡️ Aethelgard: O Abismo Sombrio
 
 Um RPG de aventura em modo texto desenvolvido inteiramente em **C**, rodando direto no terminal. Escolha sua arma, explore labirintos perigosos, encontre chaves e enfrente o terrível Arauto da Ruína antes que seu tempo acabe!
@@ -13,6 +12,16 @@ Um RPG de aventura em modo texto desenvolvido inteiramente em **C**, rodando dir
 A pacata **Vila da Superfície** é o último refúgio seguro de um reino corrompido pelas trevas. Anos atrás, a terra se partiu, revelando uma estrutura colossal conhecida como **O Abismo**. De lá, emana uma magia sombria que drena a vida de quem ousa entrar.
 
 Você é um guerreiro escolhido pelo destino. Ao falar com o **Ancião da Vila**, você receberá uma das três relíquias sagradas para iniciar sua descida ao Labirinto do Esquecimento. Seu objetivo final? Derrotar o **Arauto da Ruína**, uma entidade ancestral de pura corrupção que aguarda no nível mais profundo. Mas cuidado: o ar na sala do chefe é tão tóxico que sua própria vida se esvairá a cada segundo!
+
+---
+
+## 🧠 Co-criação e Uso de IA
+
+Este projeto utilizou ferramentas de **Inteligência Artificial** como um copiloto de desenvolvimento. A IA foi aplicada estrategicamente para:
+* **Construção de Wordbuilding:** Expandir a atmosfera do jogo, transformando os caracteres simples do terminal em elementos com peso narrativo (como a justificativa para a mecânica de perda de vida passiva na sala do chefe).
+* **Agregação de Conhecimento:** Auxiliar na estruturação do código, boas práticas de documentação e organização do fluxo de jogo.
+
+Essa integração permitiu focar na lógica de programação principal em C, enquanto a IA ajudou a dar vida e profundidade ao universo do jogo.
 
 ---
 
