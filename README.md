@@ -1,5 +1,6 @@
 # Projeto-Dungeon-Crawler
 # 🛡️ Aethelgard: O Abismo Sombrio
+#Desenvolvido por Heitor sena
 
 Um RPG de aventura em modo texto desenvolvido inteiramente em **C**, rodando direto no terminal. Escolha sua arma, explore labirintos perigosos, encontre chaves e enfrente o terrível Arauto da Ruína antes que seu tempo acabe!
 
